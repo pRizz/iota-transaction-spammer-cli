@@ -1,0 +1,26 @@
+{
+  "name": "iota-transaction-spammer-cli",
+  "version": "1.0.0",
+  "description": "Automatically spams the IOTA network from the command line",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pRizz/iota-transaction-spammer-cli.git"
+  },
+  "keywords": [
+    "IOTA"
+  ],
+  "author": "Peter Ryszkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pRizz/iota-transaction-spammer-cli/issues"
+  },
+  "homepage": "https://github.com/pRizz/iota-transaction-spammer-cli#readme",
+  "dependencies": {
+    "curl-transaction-ccurl-impl": "^1.0.0",
+    "iota-transaction-spammer-core": "^1.0.2"
+  }
+}
