@@ -1,4 +1,7 @@
 # iota-transaction-spammer-cli
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/pRizz/iota-transaction-spammer-cli.svg)](https://greenkeeper.io/)
+
 Automatically spams the IOTA network from the command line
 
 ## Usage
