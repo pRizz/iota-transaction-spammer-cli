@@ -1,6 +1,15 @@
 # iota-transaction-spammer-cli
 Automatically spams the IOTA network from the command line
 
+## Dependencies
+
+For a AWS fresh instance:
+
+```bash
+sudo yum -y install git gcc-c++ make
+# install cmake3 from https://cmake.org/download/
+```
+
 ## Usage
 
 Install globally with `npm`
